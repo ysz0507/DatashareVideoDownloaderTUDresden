@@ -10,7 +10,7 @@ Wenn du nicht weißt wie man ein Repo herunterlädt sollte dir diese Seite helfe
 
 ### 2. Erweiterung in Chrome hinzufügen
 
-Befolge dazu diese Schritte: [Entpackte Erweiterung laden](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=de#load-unpacked).
+Befolge dazu diese Schritte: [Entpackte Erweiterung laden](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?#load-unpacked).
 
 ### 3. Öffne die richtige Seite
 
