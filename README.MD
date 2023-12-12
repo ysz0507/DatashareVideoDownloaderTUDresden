@@ -6,11 +6,11 @@ Dieses Projekt ist in wenigen Minuten programmiert worden mit dem Ziel die datas
 
 ### 1. Clone das Repository
 
-Wenn du nicht weißt wie man ein Repo herunterlädt sollte dir diese Seite helfen: [Git Clone]("https://www.gitkraken.com/learn/git/git-clone"). Bei diesem Thema hilft dir aber sicherlich eine Websuche in Eigenregie am besten.
+Wenn du nicht weißt wie man ein Repo herunterlädt sollte dir diese Seite helfen: [Git Clone](https://www.gitkraken.com/learn/git/git-clone). Bei diesem Thema hilft dir aber sicherlich eine Websuche in Eigenregie am besten.
 
 ### 2. Erweiterung in Chrome hinzufügen
 
-Befolge dazu diese Schritte: [Entpackte Erweiterung laden]("https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=de#load-unpacked").
+Befolge dazu diese Schritte: [Entpackte Erweiterung laden](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=de#load-unpacked).
 
 ### 3. Öffne die richtige Seite
 
